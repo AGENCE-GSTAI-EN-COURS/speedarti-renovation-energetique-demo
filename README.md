@@ -1,5 +1,5 @@
 # SpeedArti — Rénovation énergétique
 
-Démonstration statique du chiffrage SpeedArti avec sept catégories et deux exemples fictifs. Pour la consulter localement, lancer `python -m http.server 8080` à la racine puis ouvrir http://localhost:8080.
+[Ouvrir la démonstration GitHub Pages](https://agence-gstai-en-cours.github.io/speedarti-renovation-energetique-demo/)
 
-Après validation de la démonstration, placer les fichiers à la racine du dépôt `speedarti-renovation-energetique-demo` et configurer GitHub Pages sur la branche `main`, dossier racine.
+La démonstration présente sept catégories et deux exemples de chiffrage avec des données fictives. Pour la consulter localement, lancer `python -m http.server 8080` à la racine du dépôt, puis ouvrir http://localhost:8080.
